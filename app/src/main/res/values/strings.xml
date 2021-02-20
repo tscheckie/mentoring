@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Mentoring</string>
+    <string name="editMentee">Mentee bearbeiten</string>
+    <string name="addMentee">Mentee hinzufügen</string>
+    <string name="notesTitle">Notizen</string>
+    <string name="mentoringDetails">Mentoring-Details</string>
+    <string name="name">Name</string>
+    <string name="goal">Ziel</string>
+    <string name="timespan">Zeitraum</string>
+    <string name="rhythm">Rhythmus</string>
+    <string name="title_placeholder">Titel Platzhalter</string>
+    <string name="notes">Notizen</string>
+    <string name="date">Datum</string>
+    <string name="topic">Thema</string>
+</resources>
